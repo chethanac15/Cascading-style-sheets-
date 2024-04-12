@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Inline</title>
+</head>
+
+<body>
+  <h1 style="color: blue;">Style Me in Blue</h1>
+</body>
+
+</html>
+----------------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Inline</title>
+</head>
+
+<body>
+  <h1 style="color: blue;">Style Me in Blue</h1>
+</body>
+
+</html>
+----------------------------------------------------------------
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>External</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <h1>Style Me in Green</h1>
+</body>
+</html>
+style.css
+h1{
+    color: green;
+}

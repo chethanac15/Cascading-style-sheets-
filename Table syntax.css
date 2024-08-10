@@ -1,0 +1,20 @@
+index.html
+
+<div class="one"><p>....</p></div>
+<div class="two"><p>....</p></div>
+<div class="three"><p>....</p></div>
+
+
+style.css
+.one{
+  float:left;
+  width:25%;
+}
+.two {
+  float:left;
+  width:25%;
+}
+.three{
+  float:left;
+  width:25%;
+}
